@@ -1,6 +1,7 @@
 # Projeto Formulário de SignIn
 
-![Projeto Sign In](https://github.com/aguiimaraes/form-signin/blob/master/assets/form-signin.png?raw=true) 
+![Projeto Sign In](https://github.com/aguiimaraes/form-signin/blob/master/assets/form-signin.png?raw=true)
+
 Esse projeto foi realizado durante do curso FrontStart (@papodedev) com o objetivo de aprender HTML e CSS voltado para formulários.
 
 ## Aprendizados
